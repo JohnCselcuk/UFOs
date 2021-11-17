@@ -11,3 +11,8 @@ Previously, the webpage included only a date filter in which users needed to cli
 ![unfiltered_table](https://user-images.githubusercontent.com/85411967/142088495-ce4ae866-81d6-47fe-be0f-4cd54aba739d.PNG)
 
 ![filtered_table](https://user-images.githubusercontent.com/85411967/142088503-4ef22d01-3c42-40ea-98e8-4b5cce8ce028.PNG)
+
+## Summary
+One drawback of this webpage is that it is currently unable to resize in relation to the device it is viewed on. Some portion of the webpage, such as the image, is able to resize if the user magnifies the webpage, however, the webpage as a whole is unable to do so. Thus, one recommendation for further development would be to add formatting that readjusts the sections and margins when the page is viewed on a mobile device or tablet.
+
+Another addition that can be made to the webpage is a survey form. The survey would ask about the users' experience with extraterrestial sightings. It can include questions such as a description for what they saw, duration, general geographic location, and other interesting details. This way, we can expand our table and database by including new user sightings.
